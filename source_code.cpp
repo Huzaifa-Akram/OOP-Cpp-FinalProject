@@ -286,5 +286,4 @@ int main() {
         delete course;
     }
 
-    return 0;
 }
